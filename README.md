@@ -1,6 +1,5 @@
-![](https://img.shields.io/github/license/rios0rios0/Foot_Coding.svg)
-
 # Foot Coding
+![](https://img.shields.io/github/license/rios0rios0/Foot-Coding.svg)
 
 ## Project Details:
 - Object Pascal with Borland Delphi __7__;
